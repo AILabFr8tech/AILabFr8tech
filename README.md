@@ -57,8 +57,7 @@ research is published openly.
 ### 🔬 Open Research
 **[We Have a Deal](https://github.com/AILabFr8tech/wehaveadeal)**: an open arena for automated freight-rate negotiation. Plug in your own shipper or carrier agent
 (rules, search, machine learning, reinforcement learning or LLMs) and benchmark it against the nine reference
-architectures from our paper *Rules, Search, and Learning Under Scarcity: A Controlled Tournament of Nine Bilateral
-Negotiation Architectures*. Everything runs on your own machine, and every result in the paper is reproducible.
+architectures from our paper *Before AI Agents Negotiate for Us: A Competitive Tournament of Rule-Based, Search, Optimization, Learned, and Language-Model Negotiators Under Scarcity*. Everything runs on your own machine, and every result in the paper is reproducible.
 
 **Research areas**
 - Multi-agent negotiation and mechanism design
